@@ -1,0 +1,9 @@
+TA‑Lib
+PyNance 
+nltk
+TextBlob
+pandas
+numpy
+matplotlib
+seaborn 
+NLP Tools

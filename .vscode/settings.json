@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "venv_wk1/bin/python",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
